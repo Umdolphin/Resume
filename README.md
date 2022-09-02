@@ -24,6 +24,7 @@ This is my resume. It shows my profile, skills, project and etc.😀
 - R  
 
 ## Project
+- Green Data Lab.
 
 ## Extracurricular Activities
 
