@@ -18,7 +18,6 @@ This is my resume. It shows my profile, skills, project, etc.😀
 - University Of Central Oklahoma as an Exchange student (USA, Jan.2020 ~ May.2020)
 - Sunrin Internet High School (Korea, Mar.2014 ~ Feb.2017)
 
-
 ## Skill
 - Python (Pandas, Scikit-learn, Pytorch, Tensorflow)  
 - R  
