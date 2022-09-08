@@ -15,7 +15,7 @@ This is my resume. It shows my profile, skills, project, etc.😀
 
 - Gachon University M.S in Applied Statistics (Mar.2021 ~ )
 - Gachon University B.S in Applied Statistics and Financial Mathematics (Mar.2017 ~ Feb.2021)
-- University Central Oklahoma as Exchange student (Jan.2020 ~ Apr.2020)
+- University Central Oklahoma as Exchange student (Jan.2020 ~ May.2020)
 - Sunrin Internet High School (Mar.2014 ~ Feb.2017)
 
 
