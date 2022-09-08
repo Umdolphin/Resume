@@ -1,5 +1,5 @@
 # Resume
-This is my resume. It shows my profile, skills, project and etc.😀
+This is my resume. It shows my profile, skills, project, etc.😀
 
 ## Profile
 
