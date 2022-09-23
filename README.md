@@ -21,7 +21,7 @@ This is my resume. It shows my profile, skills, project, etc.😀
 ## Skill
 - Python (Pandas, Scikit-learn, Pytorch, Tensorflow)  
 - R  
-- MySQL, Kubernetes, Docker (I'm not good at these things. But, I'm studying hard.) 
+- MySQL, Kubernetes, Docker, AWS, Ubuntu, HTML5, Flask (I'm not good at these things. But, I'm studying hard.) 
 
 ## Project
 - Green Data Lab.
