@@ -24,8 +24,15 @@ This is my resume. It shows my profile, skills, project, etc.😀
 - MySQL, Kubernetes, Docker, AWS, Ubuntu, HTML5, Flask (I'm not good at these things. But, I'm studying hard.) 
 
 ## Project
-- Green Data Lab.
+### **Green DataLab**
+- May.11.2022 ~ Nov.30.2022
+- Developed Deep Learning Modeling For Predicting Strawberry Production Using Time Series Forecasting With LSTM
+- Deployed Predictive Model Servers with Flask and AWS
+
+### **Undergraduate & Graduate school Project**
+- Organized a class project when I was an undergraduate and graduate.
+- 🟦 Undergraduate project here 🟦
+- 🟧 Graduate project here 🟧
 
 ## Extracurricular Activities
 
-## Publication
