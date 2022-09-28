@@ -33,10 +33,10 @@ I didn't know what to like, so I wrote it all down🤭
   1. Developed Deep Learning Modeling For Predicting Strawberry Production Using Time Series Forecasting With LSTM
   2. Deployed Predictive Model Servers with Flask and AWS
 
-### **Undergraduate & Graduate school project**
+### **University & Graduate school project**
 - Organized a class project when I was an undergraduate and graduate.
-- 🟦 Undergraduate project here 🟦
-- 🟧 Graduate project here 🟧
+- 🟦 University project is here 🟦
+- 🟧 Graduate school project is here 🟧
 
 ## Extracurricular Activities
 
