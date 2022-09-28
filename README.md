@@ -16,10 +16,10 @@ I didn't know what to like, so I wrote it all down🤭
 
 ## Education
 
-- Gachon University M.S in Applied Statistics (Korea, Mar.2021 ~ )
-- Gachon University B.S in Applied Statistics and Financial Mathematics (Korea, Mar.2017 ~ Feb.2021)
-- University Of Central Oklahoma as an Exchange student (USA, Jan.2020 ~ May.2020)
-- Sunrin Internet High School (Korea, Mar.2014 ~ Feb.2017)
+- Gachon University M.S in Applied Statistics (Korea, Mar. 2021 ~ )
+- Gachon University B.S in Applied Statistics and Financial Mathematics (Korea, Mar. 2017 ~ Feb. 2021)
+- University Of Central Oklahoma as an Exchange student (USA, Jan. 2020 ~ May. 2020)
+- Sunrin Internet High School (Korea, Mar. 2014 ~ Feb. 2017)
 
 ## Skill
 - Python (Pandas, Scikit-learn, Pytorch, Tensorflow)  
@@ -44,13 +44,13 @@ I didn't know what to like, so I wrote it all down🤭
 ## Honors
 
 ### **Data based COVID-19 forecasting competition**
-- Award date : Dec.2020
+- Award date : Dec. 2020
 - Prize : Encouragement prize 
 - Competition content : Using various data, freely analyze the topics you are interested in and present them.
   1. Conducted under the theme of analyzing trends in the 20s through YouTube.
   2. Analyzed the above topic using time series analysis and text mining.
 ### **Gachon university of social sciences research competition**
-- Award date : Nov.2019
+- Award date : Nov. 2019
 - Prize : Excellent prize
 - Competition content : During the Chuseok period(20.9.30~10.4), predict the number of COVID-19 patients in Gyeonggi-do and suggest policies to reduce local infection.
   1. Predicted the number of COVID-19 patients through traffic volume and local variables(population, restaurant, bus stop, parking lot).
