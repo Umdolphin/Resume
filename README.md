@@ -28,7 +28,7 @@ I didn't know what to like, so I wrote it all down🤭
 
 ## Project
 ### **Green DataLab**
-- Period : May.11.2022 ~ Nov.30.2022  
+- Period : May. 11. 2022 ~ Nov. 30. 2022  
 - Duty : Analyzed related to ML and DL based on smart farm data, linking mobile apps and conducting tasks related to papers and patents.  
   1. Developed Deep Learning Modeling For Predicting Strawberry Production Using Time Series Forecasting With LSTM
   2. Deployed Predictive Model Servers with Flask and AWS
