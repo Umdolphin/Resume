@@ -35,8 +35,8 @@ I didn't know what to like, so I wrote it all down🤭
 
 ### **University & Graduate school project**
 - Organized a class project when I was an undergraduate and graduate.
-- 🟦 University project is here 🟦
-- 🟧 Graduate school project is here 🟧
+- [🟦 University project is here 🟦](https://github.com/Umdolphin/University_project.git)  
+- [🟧 Graduate school project is here 🟧](https://github.com/Umdolphin/Graduate-school_project.git)  
 
 ## Extracurricular Activities
 
