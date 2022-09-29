@@ -41,6 +41,11 @@ I didn't know what to like, so I wrote it all down🤭
 
 ## Extracurricular Activities
 
+### **▶Teaching about statistic understanding and R programming**  
+- Period: Nov. 2021 ~ Jan. 2022
+- Education target: Gachon University Ph.D in health policy & management
+- Content: Taught Basic statistical knowledge, how to use R, visualization, and practical exercises using actual data.
+
 ### **▶Participation in NLP and MLOPS studies with students from other graduate school labs**
 - Period: Mar. 2021 ~ Dec. 2021
 - Content: Presentations, Q&A, and practical exercises for each week on the above topics.
