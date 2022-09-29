@@ -1,6 +1,6 @@
 # Resume
 This is my resume. It shows my profile, skills, project, etc.😀  
-I didn't know what to like, so I wrote it all down🤭
+I dodn't know what to like, so I wrote it all down🤭
 
 ## Profile
 
@@ -24,7 +24,7 @@ I didn't know what to like, so I wrote it all down🤭
 ## Skill
 - Python (Pandas, Scikit-learn, Pytorch, Tensorflow)  
 - R  
-- MySQL, AWS, Ubuntu, HTML5, Flask (I'm not good at these things. But, I'm studying hard.) 
+- MySQL, AWS, Ubuntu, HTML5, Flask (I'm not good at all these things. But, I'm studying hard.) 
 
 ## Project
 ### **▶Green DataLab**
@@ -34,7 +34,7 @@ I didn't know what to like, so I wrote it all down🤭
   2. Deployed Predictive Model Servers with Flask and AWS.
 
 ### **▶University & Graduate school project**
-- Organized a class project when I was an undergraduate and graduate.
+- Organized a class project when I was an undergraduate and graduate student.
 - [🟦 University project is here 🟦](https://github.com/Umdolphin/University_project.git)  
 - [🟧 Graduate school project is here 🟧](https://github.com/Umdolphin/Graduate-school_project.git)  
 
