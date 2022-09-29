@@ -24,7 +24,7 @@ I didn't know what to like, so I wrote it all down🤭
 ## Skill
 - Python (Pandas, Scikit-learn, Pytorch, Tensorflow)  
 - R  
-- MySQL, Kubernetes, Docker, AWS, Ubuntu, HTML5, Flask (I'm not good at these things. But, I'm studying hard.) 
+- MySQL, AWS, Ubuntu, HTML5, Flask (I'm not good at these things. But, I'm studying hard.) 
 
 ## Project
 ### **▶Green DataLab**
