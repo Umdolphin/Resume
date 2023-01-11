@@ -27,7 +27,7 @@ I dodn't know what to like, so I wrote it all down🤭
 - MySQL, AWS, Ubuntu, HTML5, Flask (I'm not good at all these things. But, I'm studying hard.) 
 
 ## Project
-### **▶Green DataLab**
+### **▶Greendatalab**
 - Period: May. 11. 2022 ~ Nov. 30. 2022  
 - Duty: Analyzed related to ML and DL based on smart farm data, linking mobile apps and conducting tasks related to papers and patents.  
   1. Developed Deep Learning Modeling For Predicting Strawberry Production Using Time Series Forecasting With LSTM.
