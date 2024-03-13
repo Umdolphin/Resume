@@ -1,6 +1,6 @@
 # Resume
 This is my resume. It shows my profile, skills, project, etc.😀  
-I dodn't know what to like, so I wrote it all down🤭
+I do not know what to like, so I wrote it all down🤭
 
 ## Profile
 
@@ -16,7 +16,7 @@ I dodn't know what to like, so I wrote it all down🤭
 
 ## Education
 
-- Gachon University M.S in Applied Statistics (Korea, Mar. 2021 ~ )
+- Gachon University M.S in Applied Statistics (Korea, Mar. 2021 ~ Feb. 2023)
 - Gachon University B.S in Applied Statistics and Financial Mathematics (Korea, Mar. 2017 ~ Feb. 2021)
 - University Of Central Oklahoma as an Exchange student (USA, Jan. 2020 ~ May. 2020)
 - Sunrin Internet High School (Korea, Mar. 2014 ~ Feb. 2017)
@@ -82,7 +82,7 @@ I dodn't know what to like, so I wrote it all down🤭
   1. Predicted the number of COVID-19 patients through traffic volume and local variables(population, restaurant, bus stop, parking lot).
   2. Developed a predictive model through multiple regression models by log-converting data to solve multicollinearity problems.
   
-### **▶Gachon university of social sciences research competition**
+### **▶Gachon University of Social Sciences research competition**
 - Award date: Nov. 2019
 - Prize: Excellent prize
 - Content: Using various data, freely analyze the topics you are interested in and present them.
